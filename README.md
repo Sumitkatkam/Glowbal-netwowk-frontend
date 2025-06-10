@@ -1,4 +1,6 @@
 Glowbal-network-frontend
+
+
 This is a React-based homepage project built using Vite for fast development and optimized builds. It uses Tailwind CSS for styling and several UI libraries for animations, icons, and interactive components.
 
 📁 Project Structure
@@ -43,12 +45,14 @@ Lucide React (Icons)
 React Icons
 
 📦 Installation & Setup
+
 1️⃣ Clone the Repository
 bash
 Copy
 Edit
 git clone https://github.com/Sumitkatkam/Glowbal-netwowk-frontend.git
 cd Glowbal-netwowk-frontend
+
 2️⃣ Install Dependencies
 bash
 Copy
@@ -59,27 +63,25 @@ bash
 Copy
 Edit
 yarn install
+
 3️⃣ Run the Development Server
 bash
 Copy
 Edit
 npm run dev
+
 4️⃣ Build for Production
 bash
 Copy
 Edit
 npm run build
+
 5️⃣ Preview Production Build
 bash
 Copy
 Edit
 npm run preview
-🛠️ Available Scripts
-Command	Description
-npm run dev	Run the app in development
-npm run build	Create production build
-npm run preview	Preview the production build
-npm run lint	Run ESLint for code checking
+
 
 ⚙️ Configuration Files
 tailwind.config.js — Tailwind CSS setup
